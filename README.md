@@ -3,9 +3,11 @@
 <img src="./.github/explorer-cover.png" alt="Preview do projeto." />
 
 ## 📢 Sobre o Programa Explorer
+
 **Programa baseado no método 7-2-1 (70% coding, 20% networking, 10% branding). O Explorer contém o conteúdo para desenvolver habilidades técnicas e comportamentais, iniciar uma carreira sólida na programação e se tornar um dev destaque.**
 
 ## 🗒️ Conteúdo Programático
+
 **Introdução à programação web**:
 
 > Fundamentos da internet; Protocolos; Navegadores; Cliente & servidor; Front-end & Back-end;
@@ -64,7 +66,7 @@
       <a href="Stage02-IntroHTML_CSS/MoveisCustomizados/" target="_blank">Stage 02 - Móveis Customizados</a>
     </td>
     <td>
-      <a href="" target="_blank">Ver Projeto Online</a>
+      <a href="https://jeffersonvidal.github.io/Explorer-Rocketseat/Stage02-IntroHTML_CSS/MoveisCustomizados/" target="_blank">Ver Projeto Online</a>
     </td>
   </tr>
 </table>
