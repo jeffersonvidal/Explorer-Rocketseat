@@ -69,6 +69,14 @@
       <a href="https://jeffersonvidal.github.io/Explorer-Rocketseat/Stage02-IntroHTML_CSS/MoveisCustomizados/" target="_blank">Ver Projeto Online</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="Stage02-IntroHTML_CSS/TreineMe/" target="_blank">Stage 02 - Treine-me</a>
+    </td>
+    <td>
+      <a href="https://jeffersonvidal.github.io/Explorer-Rocketseat/Stage02-IntroHTML_CSS/TreineMe/" target="_blank">Ver Projeto Online</a>
+    </td>
+  </tr>
 </table>
 
 ## 🛠 Tecnologias utilizadas/aprendidas
