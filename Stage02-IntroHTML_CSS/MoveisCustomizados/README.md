@@ -1,17 +1,16 @@
-# Desafio 1 - Móveis costumizados ✅
+# Desafio 01 - Móveis Custumizados ✅
 
-<img src="./.github/preview-desafio-01.jpg" alt="Preview do projeto." />
+<img src="./.github/preview.png" alt="Preview do projeto." />
 
-* <a href="https://jeffersonvidal.github.io/rocketseat-explorer/nivel-02/stage/desafio-01/">Acesse aqui.</a>
+* <a href="https://jeffersonvidal.github.io/Explorer-Rocketseat/Stage02-IntroHTML_CSS/MoveisCustomizados/">Acesse aqui.</a>
 
 ## 💻 O desafio
 
-Móveis costumizados é uma página web simples para uma empresa fictícia de venda de móveis. Nesse projeto aprendi um pouco sobre:
+Móveis custumizados é uma página web simples para uma empresa fictícia de venda de móveis. Nesse projeto aprendi um pouco sobre:
 * Introdução ao HTML5: tags, atributos e etc;
 * Introdução ao CSS3: seletores e propriedades;
 * Figma básico;
 * Box Model;
-* Dev Tools;
 * Uso do <a href="https://fonts.google.com">Google Fonts</a>;
 * Utilizar o Github para versionar, "hospedar" ou fazer deploy dos projetos de páginas simples.
 
