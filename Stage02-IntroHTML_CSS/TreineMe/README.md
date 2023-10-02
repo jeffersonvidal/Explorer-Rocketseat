@@ -17,7 +17,7 @@ Móveis custumizados é uma página web simples para uma empresa fictícia de ve
 
 ## 🎨 Layout do projeto
 
-Este é o <a href="https://www.figma.com/file/dZwREQYzGOFsCjEoObp5Mx/Explorer---Projeto-01-(Copy)?node-id=0%3A1&t=sMfD75Hlfo1V8SKh-0">layout do projeto</a> no Figma.
+Este é o <a href="https://www.figma.com/file/DbV4p4rBhWhWzzO6zY51Xp/Projeto-02---Explorer?type=design&node-id=23%3A1928&mode=dev">layout do projeto</a> no Figma.
 
 ## 🛠 Tecnologias
 
